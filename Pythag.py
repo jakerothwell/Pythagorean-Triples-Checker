@@ -47,8 +47,9 @@ def get_input():
 	
 	coprime(a, b, c)
 
+while(1):
 
-get_input()
+	get_input()
 
 
 
